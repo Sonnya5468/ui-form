@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: greenyellow;
+}
+.cont {
+   width: 444px;
+height: 454px;
+top: 721px;
+left: 346px;
+border-radius: 4px;
+background: #FFFFFF;
+padding-top: 50px;
+padding-bottom: 50px;
+padding-left: 48px;
+}
+.cont .first {
+    font-family: Mulish;
+font-weight: 400;
+font-size: 14px;
+letter-spacing: 0%;
+color: #757575;
+}
+.cont h1 {
+    font-family: Mulish;
+font-weight: 700;
+font-size: 24px;
+letter-spacing: 0%;
+vertical-align: middle; 
+/* vertical-align-веравнивание по вертикали */
+margin-top: 5px;
+margin-bottom: 30px;
+color: #333333;
+}
+.cont .second {
+    font-family: Mulish;
+font-weight: 500;
+font-size: 14px;
+vertical-align: middle;
+margin-bottom: 10px;
+color: #333333;
+}
+.cont .block1 {
+width: 352px;
+height: 45px;
+top: 882px;
+left: 392px;
+border-radius: 6px;
+padding-right: 12px;
+padding-left: 12px;
+border: 1px solid #DEDEDE;
+margin-bottom: 15px;
+}
+.cont .block2 {
+width: 352px;
+height: 45px;
+top: 882px;
+left: 392px;
+border-radius: 6px;
+padding-right: 12px;
+padding-left: 12px;
+border: 1px solid #DEDEDE;
+margin-bottom: 30px;
+}
+
+.cont button {
+width: 352px;
+height: 45px;
+border-radius: 6px;
+padding-top: 9px;
+padding-right: 14px;
+padding-bottom: 9px;
+padding-left: 14px;
+font-family: Mulish;
+font-weight: 800;
+font-size: 16px;
+letter-spacing: 0%;
+vertical-align: middle;
+text-transform: uppercase;
+color: white;
+background: linear-gradient(180deg, #625BF7 0%, #463EEA 100%);
+border-width: 0px;
+}
+.cont .third {
+ font-family: Mulish;
+font-weight: 700;
+font-size: 12px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+color: #625BF7;
+margin-top: 20px;
+}
